@@ -10,6 +10,8 @@
 3. Đây là một hình ảnh ![Chú thích của hình ảnh](image.jpg).
 4. Đây là một đoạn mã *Javascript*:
 ---
-  `const msg = document.createElement("p");
+```javascript
+  const msg = document.createElement("p");
   msg.textContent = "This is a message box";
-  panel.appendChild(msg);`
+  panel.appendChild(msg);
+```
